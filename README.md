@@ -14,10 +14,8 @@ Technology has a story of progress and problem-solving. I write to make these st
 
 ## Portfolio Contents
 
--   **Articles**: In-depth pieces focused on explaining technical topics.
--   **User Guides**: Step-by-step guides aimed at helping end-users accomplish specific tasks.
--   **Technical Summaries**: Brief documents outlining the specifications and features of various products.
--   **Case Studies**: Detailed analyses of real-world applications of specific technologies or methods.
+-   **Articles**: In-depth pieces focused on explaining technical topics.These articles often target specific audiences, such as beginners looking to grasp foundational concepts or experienced professionals seeking advanced insights.
+
 
 ## Skills Demonstrated
 
@@ -26,8 +24,6 @@ Technology has a story of progress and problem-solving. I write to make these st
 -   Markdown language
 -   Version control systems
 -   Code Snippets and Examples
--   End-User Documentation
--   Document Design and Layout
 
 ## Contact Me
 
