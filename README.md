@@ -34,7 +34,7 @@ Technology has a story of progress and problem-solving. I write to make these st
 If you're interested in my work and would like to get in touch, you can reach me at:
 
 -   Email: works@amyhadassah.com
--   LinkedIn: www.linkedin.com/in/amyhadassahokorie
+-   LinkedIn: https://www.linkedin.com/in/goodness-onu-29b405325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 -   Twitter: www.twitter.com/theamyhadassah
 
 Thank you for visiting my portfolio. I look forward to the possibility of working together!
