@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello and welcome to my Technical Writing Portfolio! My name is Amy, and I am passionate about making complex topics easy to understand. With a background in Content Marketing and Copywriting, I specialize in creating explicit, concise, and informative technical content.
+Hello and welcome to my Technical Writing Portfolio! My name is Goodness, and I am passionate about making complex topics easy to understand. With a background in Technical writing , I specialize in creating explicit and well explained technical contents.
 
 ## Overview
 
